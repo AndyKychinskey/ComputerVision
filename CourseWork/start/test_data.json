@@ -1,0 +1,28 @@
+{
+   "debug_btns":{
+      "reset_device_btn_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\Reset_device_btn.png",
+      "continue_btn_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\Continue_btn.png",
+      "step_over_btn_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\Step_Over_btn.png",
+      "restart_btn_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\Restart_btn.png",
+      "stop_btn_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\Stop_btn.png"
+   },
+   "validation_points":{
+      "pointer_on_main_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\pointer_on_main.png",
+      "stop_after_Continue_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\stop_after_Continue.png",
+      "stop_after_Step_over_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\debug_lc\\stop_after_Step_over.png"
+   },
+   "watch_window":{
+      "watch_window_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\watch_window.png",
+      "add_var_to_watch_window_btn_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\add_var_to_watch_window_btn_2.png",
+      "watch_window_counter_var_template":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\watch_window_counter_var.png"
+   },
+   "launch_configs":{
+      "run_and_debug_active":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\run_and_debug_active.png",
+      "run_and_debug_unactive":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\run_and_debug_unactive.png",
+      "launch_configs_list":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\launch_configs_list.png",
+      "launch_KitProg_LC":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\launch_KitProg_LC.png",
+      "start_debugging_btn_unactive":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\start_debugging_btn_unactive.png",
+      "start_debugging_btn_active":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\start_debugging_btn_active.png",
+      "watch_window":"C:\\Users\\Kuchynskyi\\Documents\\Wiki\\OpenCV_matching\\start\\data\\img\\vscode\\watch_window.png"
+   }
+}

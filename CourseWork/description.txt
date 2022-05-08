@@ -1,0 +1,5 @@
+Automated GUI test in Visual Studio Code.
+Test checks basic 'Debug' session functionality.
+Used libraries:
+- OpenCV;
+- PyAutoGUI.
